@@ -67,7 +67,7 @@ https://docs.livekit.io/mcp
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/livekit-examples/gemini-live-quickstart.git
    cd gemini-livekit-quickstart
    ```
 
